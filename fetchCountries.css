@@ -1,0 +1,21 @@
+.outer{
+    display:flex;
+    flex-wrap:wrap;
+    gap:2rem;
+  }
+  .container{
+    height:auto-flow;
+    max-width:10rem;
+      line-height:1.2;
+      border:2px solid white;
+      background-color:white;
+    box-shadow: 10px 10px  10px 0 grey;
+    overflow:hidden
+  }
+  img{
+    height:100px;
+    width:10rem;
+    border-radius:7px 7px 0 0 ;
+  
+    
+  }
